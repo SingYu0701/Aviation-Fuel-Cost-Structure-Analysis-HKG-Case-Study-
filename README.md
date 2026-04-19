@@ -198,14 +198,21 @@ Output metrics
 → **probability of extreme loss scenarios**
 
 This module captures:
+
 - fuel price volatility risk
+- 
 - tail risk exposure
+- 
 - non-linear profitability behavior
+- 
 This is closer to risk management / treasury view
 <img width="1662" height="953" alt="圖片" src="https://github.com/user-attachments/assets/536f4783-f6c9-49ae-b57e-f20977db400e" />
 distribution of profit outcomes (2035)
+
 - asymmetric risk profile
+
 - downside risk driven by fuel spikes
+
 - mean outcome is not representative
 
 ## 8. Route Emission Intensity (Distance vs Traffic)
