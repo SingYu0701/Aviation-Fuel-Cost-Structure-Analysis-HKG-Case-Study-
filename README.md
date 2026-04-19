@@ -145,8 +145,9 @@ unit cost vs unit revenue over time
 - profitability is **cost-driven**, not demand-driven
   
 <img width="1072" height="512" alt="圖片" src="https://github.com/user-attachments/assets/21fdaed8-84ae-4fd8-ae07-b02bf5166ad2" />
-Operating Margin
-Definition:**RASK − CASK**
+Operating Margin Definition:
+
+$$RASK − CASK$$
 
 - margin volatility is **fuel-driven**
 - structural **recovery** appears post-shock periods
